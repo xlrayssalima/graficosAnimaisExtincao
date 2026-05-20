@@ -10,8 +10,8 @@ try:
 except:
     pass
 
-arq_2014 = 'br_mma_extincao_fauna_ameacada.csv'
-arq_atual = 'salve-publico-exportacao-fichas-planilha12-05-2026-15-56-40.csv'
+arq_2014 = 'dados.csv'
+arq_atual = 'dados2.csv'
 
 def preparar_dados_completos():
     df1 = pd.read_csv(arq_2014)
