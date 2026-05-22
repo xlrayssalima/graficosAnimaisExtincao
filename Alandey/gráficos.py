@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # =========================
-# LEITURA DOS BANCOS
+# LEITURA DOS BANCO
 # =========================
 
 df1 = pd.read_csv("https://raw.githubusercontent.com/xlrayssalima/graficosAnimaisExtincao/main/br_mma_extincao_fauna_ameacada.csv")
