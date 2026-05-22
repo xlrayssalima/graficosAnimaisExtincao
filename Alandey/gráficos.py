@@ -3,14 +3,14 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # =========================
-# LEITURA DOS BANCO
+# LEITURA DOS BANCOS
 # =========================
 
 df1 = pd.read_csv("https://raw.githubusercontent.com/xlrayssalima/graficosAnimaisExtincao/main/br_mma_extincao_fauna_ameacada.csv")
 df2 = pd.read_csv("https://raw.githubusercontent.com/xlrayssalima/graficosAnimaisExtincao/main/salve-publico-exportacao-fichas-planilha12-05-2026-15-56-40%20(1).csv")
 
 # =========================
-# FILTRAR INVERTEBRADOS
+# FILTRAR ANIMAIS INVERTEBRADOS
 # DE ÁGUA DOCE E MARINHOS
 # =========================
 
