@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Anta",
+    "cientifico": "Tapirus terrestris",
+    "imagem": "https://static.todamateria.com.br/upload/an/ta/antatapirusterrestris-cke.jpg",
+    "especieBusca": "Tapirus terrestris"
+  },
+  {
+    "nome": "Ararajuba",
+    "cientifico": "Guaruba guarouba",
+    "imagem": "https://static.todamateria.com.br/upload/ar/ar/ararajubaguarubaguarouba-cke.jpg",
+    "especieBusca": "Guaruba guarouba"
+  },
+  {
+    "nome": "Ariranha",
+    "cientifico": "Pteronura brasiliensis",
+    "imagem": "https://static.todamateria.com.br/upload/ar/ir/ariranha-cke.jpg",
+    "especieBusca": "Pteronura brasiliensis"
+  },
+  {
+    "nome": "Baleia-franca-do-sul",
+    "cientifico": "Eubalaena australis",
+    "imagem": "https://static.todamateria.com.br/upload/ba/le/baleiafrancadosul.jpg",
+    "especieBusca": "Eubalaena australis"
+  },
+  {
+    "nome": "Boto cor-de-rosa",
+    "cientifico": "Inia geoffrensis",
+    "imagem": "https://static.todamateria.com.br/upload/bo/to/botocorderosa-0-cke.jpg",
+    "especieBusca": "Inia geoffrensis"
+  },
+  {
+    "nome": "Cachorro-do-mato",
+    "cientifico": "Cerdocyon thous",
+    "imagem": "https://static.todamateria.com.br/upload/ca/ch/cachorrodomatocerdocyonthous1-cke.jpg",
+    "especieBusca": "Cerdocyon thous"
+  },
+  {
+    "nome": "Cervo-do-Pantanal",
+    "cientifico": "Blastocerus dichotomus",
+    "imagem": "https://static.todamateria.com.br/upload/ce/rv/cervodopantanal-cke.jpg",
+    "especieBusca": "Blastocerus dichotomus"
+  },
+  {
+    "nome": "Cuxiú-preto",
+    "cientifico": "Chiropotes satanas",
+    "imagem": "https://static.todamateria.com.br/upload/cu/xi/cuxiupretochiropotessatanas-cke.jpg",
+    "especieBusca": "Chiropotes satanas"
+  },
+  {
+    "nome": "Gato-maracajá",
+    "cientifico": "Leopardus wiedii",
+    "imagem": "https://static.todamateria.com.br/upload/ga/to/gatomaracaja-cke.jpg",
+    "especieBusca": "Leopardus wiedii"
+  },
+  {
+    "nome": "Jacutinga",
+    "cientifico": "Aburria jacutinga",
+    "imagem": "https://static.todamateria.com.br/upload/ja/cu/jacutinga-cke.jpg",
+    "especieBusca": "Aburria jacutinga"
+  }
+]
