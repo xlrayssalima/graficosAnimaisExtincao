@@ -1,5 +1,5 @@
 # Relatório Técnico Preditivo - Anfíbios e Invertebrados Aquáticos (CR)
-**Autor:** Pessoa 4 (Anfíbios e Invertebrados)
+**Autor:** ANA (Anfíbios e Invertebrados)
 
 ## Resultados do Modelo Preditivo (Random Forest)
 * **ROC-AUC Score:** 0.9642
